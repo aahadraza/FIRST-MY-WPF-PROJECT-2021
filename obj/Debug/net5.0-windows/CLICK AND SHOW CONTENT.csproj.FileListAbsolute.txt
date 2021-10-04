@@ -1,0 +1,22 @@
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.exe
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.deps.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.runtimeconfig.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.runtimeconfig.dev.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\ref\CLICK AND SHOW CONTENT.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\bin\Debug\net5.0-windows\CLICK AND SHOW CONTENT.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.g.resources
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.AssemblyInfoInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.AssemblyInfo.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\ref\CLICK AND SHOW CONTENT.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\CLICK AND SHOW CONTENT\obj\Debug\net5.0-windows\CLICK AND SHOW CONTENT.genruntimeconfig.cache
